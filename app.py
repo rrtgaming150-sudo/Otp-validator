@@ -19,7 +19,7 @@ MAX_WORKERS = 5
 DELAY_PER_THREAD = 2.0
 
 # Telegram Bot Configuration
-TELEGRAM_TOKEN = "8853159534:AAHljkPYZ3X6Ktx5c1UrHXJjZupvFji47DU"
+TELEGRAM_TOKEN = "8789555036:AAGw-EovbhVHoI81lD6QJ9AeFhn4eJNnFaY"
 TELEGRAM_CHAT_ID = "5177144784"
 
 # ================== Helper Functions ==================
